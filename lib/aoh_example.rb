@@ -24,12 +24,11 @@ def literal_aoh
   # held in the constants
     people = [
     DON_G,
-    PAT_M,
     JOELLE_VD,
+    PAT_M,
     KATE_G,
     BRUCE_G,
     ]
-    new_people = people.sort
     new_people
 end
 
