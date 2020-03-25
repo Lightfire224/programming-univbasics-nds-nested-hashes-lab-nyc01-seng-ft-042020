@@ -29,7 +29,7 @@ def literal_aoh
     KATE_G,
     BRUCE_G,
     ]
-    new_people
+    people
 end
 
 def aoh_lookup(aoh, row, key)
