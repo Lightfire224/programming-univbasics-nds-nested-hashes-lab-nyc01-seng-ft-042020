@@ -24,8 +24,8 @@ def literal_aoh
   # held in the constants
     people = [
     DON_G,
-    JOELLE_VD,
     PAT_M,
+    JOELLE_VD,
     KATE_G,
     BRUCE_G,
     ]
