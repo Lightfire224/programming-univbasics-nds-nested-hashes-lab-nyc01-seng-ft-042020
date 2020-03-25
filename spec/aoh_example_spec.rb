@@ -16,7 +16,6 @@ describe 'When a learning to build AoH,' do
        {:name=>"Pat Monteseian", :occupation=>"Staff"},
        {:name=>"Kate Gompert", :occupation=>"None"},
        {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
-    puts literal_aoh
     expect(literal_aoh).to eq(result)
   end
 end
